@@ -13,3 +13,15 @@ A web application to track and manage personal expenses efficiently.
 - Responsive and modern UI  
 
 ---
+
+## Tech Stack
+- **Frontend:** React, Tailwind CSS, Recharts / Chart.js  
+- **Backend:** Node.js, Express.js  
+- **Database & Auth:** Supabase  
+
+---
+
+## Team Members
+- **Manmath Kornule**   
+- **Krishna Kushwah**  
+- **Om Channawar** 
